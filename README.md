@@ -1,6 +1,8 @@
-  # Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling
-  
-   This project focuses on forecasting the sales of a furniture store utilizing Time Series Modeling techniques. The analysis involves data cleaning, visualization, and modeling of sales data to predict future trends, ultimately optimizing business decision-making.
+ # Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling
+
+ <img src="https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling/blob/main/Super%20Store%20Sales.jpg"/>
+ 
+This project focuses on forecasting the sales of a furniture store utilizing Time Series Modeling techniques. The analysis involves data cleaning, visualization, and modeling of sales data to predict future trends, ultimately optimizing business decision-making.
  
   # Abstract:
   Effective sales and inventory management is crucial for any retail business. One of the most challenging aspects for retail stores is predicting future sales and the required inventory to maintain an optimal stock level. By forecasting sales, businesses can avoid overstocking and under-stocking, ensuring an enhanced customer experience while minimizing losses. This project aims to predict future sales trends for a furniture store, supporting better business planning and sustainable operations.
