@@ -1,6 +1,6 @@
  # Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling
 
- <img src="https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling/blob/main/Super%20Store%20Sales.jpg"/>
+ <img src="https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling/blob/main/furniture%20store.jpg"/>
  
 This project focuses on forecasting the sales of a furniture store utilizing Time Series Modeling techniques. The analysis involves data cleaning, visualization, and modeling of sales data to predict future trends, ultimately optimizing business decision-making.
  
